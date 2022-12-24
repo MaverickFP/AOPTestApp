@@ -1,0 +1,15 @@
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/bin/Debug/net7.0/AOPTestApp
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/bin/Debug/net7.0/AOPTestApp.deps.json
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/bin/Debug/net7.0/AOPTestApp.runtimeconfig.json
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/bin/Debug/net7.0/AOPTestApp.dll
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/bin/Debug/net7.0/AOPTestApp.pdb
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/obj/Debug/net7.0/AOPTestApp.csproj.AssemblyReference.cache
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/obj/Debug/net7.0/AOPTestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/obj/Debug/net7.0/AOPTestApp.AssemblyInfoInputs.cache
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/obj/Debug/net7.0/AOPTestApp.AssemblyInfo.cs
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/obj/Debug/net7.0/AOPTestApp.csproj.CoreCompileInputs.cache
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/obj/Debug/net7.0/AOPTestApp.dll
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/obj/Debug/net7.0/refint/AOPTestApp.dll
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/obj/Debug/net7.0/AOPTestApp.pdb
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/obj/Debug/net7.0/AOPTestApp.genruntimeconfig.cache
+/Users/francescoparis/Projects/AOPTestApp/AOPTestApp/obj/Debug/net7.0/ref/AOPTestApp.dll
